@@ -1,6 +1,7 @@
 # Logs
 tubliBot.http
 .env
+bin/
 logs
 *.log
 npm-debug.log*
